@@ -1,7 +1,7 @@
 <h1 align="center"> ˹ᴀɴɴɪ ꭙ ᴍᴜsɪᴄ˼ ♪ <\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/eabfb1087a5508dbbb218.jpg" alt="Inflex Music Logo" width="640" height="360">
+  <img src="https://graph.org/file/9c5d0138224bd25f91d73.jpg" alt="Inflex Music Logo" width="640" height="360">
 </p>
 
 <p align="center">
